@@ -1,0 +1,52 @@
+body {color:rgb(9, 9,9);
+    background-color: rgba(198, 177, 42, 0.466);
+}
+h1 {
+    color: rgb(0, 0, 0);
+background-color: rgb(124, 243, 187);
+}
+#foto{
+    width: 20%;
+    margin: 2%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+img{
+    width: 150%;
+}
+
+#texto{
+    width: 63%;
+    margin: 0%;
+    display: inline-block;
+    vertical-align: middle;
+}
+#cuadro{
+    width: 70%;
+    margin-top: 3%;
+    margin-left: 12%;
+    padding: 2%;
+    float: left;
+    background-color: rgb(138, 231, 226);
+    border-style:dashed;
+}
+#botonnnn{
+    font-size: 15px;
+    font-family: Arial;
+    width: 5%;
+    padding: 2%;
+    margin-top: 5%;
+    border-width: 1px;
+    color: #000000;
+    border-color: rgb(163, 5, 5);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background: linear-gradient(#1b6e67, #61cead);
+    text-decoration: none;
+}
+#botonnnn:hover{
+    background: linear-gradient(#61cead, #1b6e67);
+}

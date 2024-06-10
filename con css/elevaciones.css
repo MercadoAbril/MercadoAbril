@@ -1,0 +1,72 @@
+body {color:rgb(9, 9,9);
+    background-color: rgba(41, 180, 139, 0.815);
+}
+h1 {
+    color: rgb(0, 0, 0);
+background-color: rgb(91, 137, 207);
+}
+#foto{
+    width: 20%;
+    margin: 2%;
+    display: inline-block;
+    vertical-align: middle;
+}   
+
+img{
+    width: 55%;
+}
+
+#texto{
+    width: 63%;
+    margin: 0%;
+    display: inline-block;
+    vertical-align: middle;
+}
+#cuadro{
+    width: 45%;
+    padding: 2%;
+    margin-top: 3%;
+    margin-left: 5%;
+    float: left;
+    background-color: rgb(100, 102, 206);
+    border-style: dashed;
+}
+#cuadro2{
+    width: 23%;
+    padding: 2%;
+    margin-top: 3%;
+    margin-left: 7%;
+    margin-right: 10%;
+    float: right;
+    background-color: rgb(100, 102, 206);
+    border-style: dashed;
+}
+#cuadro3{
+    width: 23%;
+    padding: 2%;
+    margin-top: 3%;
+    margin-left: 7%;
+    margin-right: 10%;
+    float: right;
+    background-color: rgb(100, 102, 206);
+    border-style: dashed;
+}
+#boton1{
+    font-size: 15px;
+    font-family: Arial;
+    width: 5%;
+    padding: 2%;
+    margin-top: 5%;
+    border-width: 1px;
+    color: #000000;
+    border-color: rgb(163, 5, 5);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background: linear-gradient(#8773e4, #61cead);
+    text-decoration: none;
+}
+#boton1:hover{
+    background: linear-gradient(#61cead, #8773e4);
+}

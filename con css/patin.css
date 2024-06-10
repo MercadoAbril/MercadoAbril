@@ -1,0 +1,56 @@
+body {color:rgb(9, 9,9);
+    background-color: rgba(200, 202, 85, 0.815);
+}
+h1 {
+    color: rgb(0, 0, 0);
+background-color: rgb(27, 197, 92);
+}
+#foto{
+    width: 20%;
+    margin: 0%;
+    display: inline-block;
+    vertical-align: middle;
+}   
+
+img{
+    width: 80%;
+}
+
+#texto{
+    width: 63%;
+    margin: 0%;
+    display: inline-block;
+    vertical-align: middle;
+}
+#cuadro{
+    width: 70%;
+    margin-top: 5%;
+    margin-left: 12%;
+    padding: 2%;
+    float: left;
+    background-color: rgb(138, 231, 158);
+    border-style: dashed;
+}
+#boton1{
+    font-size: 21px;
+    font-family: Arial;
+    width: 5%;
+    padding: 2%;
+    margin-top: 5%;
+    border-width: 1px;
+    color: #ffffff;
+    border-color: rgb(163, 5, 5);
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+    border-bottom-right-radius: 24px;
+    text-shadow: 5px 5px 0px #000000;
+    background: linear-gradient(#f74d5b, #c52ada);
+    text-decoration: none;
+}
+#boton1:hover{
+    background: linear-gradient(#c52ada, #f74d5b);
+}
+.boton{
+    margin-top: 3%;
+}

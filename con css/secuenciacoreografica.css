@@ -1,0 +1,63 @@
+body {color:rgb(9, 9,9);
+    background-color: rgba(8, 122, 75, 0.815);
+}
+h1 {
+    color: rgb(0, 0, 0);
+background-color: rgb(88, 143, 224);
+}
+#foto{
+    width: 20%;
+    margin: 2%;
+    display: inline-block;
+    vertical-align: middle;
+}   
+
+img{
+    width: 85%;
+}
+
+#texto{
+    width: 63%;
+    margin: 0%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#cuadro{
+    width: 45%;
+    padding: 2%;
+    margin-top: 3%;
+    margin-left: 5%;
+    float: left;
+    background-color: rgb(98, 100, 248);
+    border-style: dashed;
+}
+#cuadro2{
+    width: 23%;
+    padding: 2%;
+    margin-top: 3%;
+    margin-left: 7%;
+    margin-right: 10%;
+    float: left;
+    background-color: rgb(98, 100, 248);
+    border-style: dashed;
+}
+#boton1{
+    font-size: 15px;
+    font-family: Arial;
+    width: 5%;
+    padding: 2%;
+    margin-top: 5%;
+    border-width: 1px;
+    color: #000000;
+    border-color: rgb(163, 5, 5);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background: linear-gradient(#3e2e86, #b341cf);
+    text-decoration: none;
+}
+#boton1:hover{
+    background: linear-gradient(#b341cf, #3e2e86);
+}

@@ -1,0 +1,72 @@
+body {color:rgb(9, 9,9);
+    background-color: rgba(243, 157, 107, 0.815);
+}
+h1 {
+    color: rgb(0, 0, 0);
+background-color: rgb(138, 108, 221);
+}
+#foto{
+    width: 0%;
+    margin: 0%;
+    display: inline-block;
+    vertical-align: middle;
+}   
+
+img{
+    width: 50%;
+}
+
+#texto{
+    width: 63%;
+    margin: 0%;
+    display: inline-block;
+    vertical-align: middle;
+}
+#cuadro{
+    width: 45%;
+    padding: 2%;
+    margin-top: 3%;
+    margin-left: 5%;
+    float: left;
+    background-color: rgb(187, 94, 137);
+    border-style: dashed;
+}
+#cuadro2{
+    width: 23%;
+    padding: 2%;
+    margin-top: 3%;
+    margin-left: 7%;
+    margin-right: 10%;
+    float: right;
+    background-color: rgb(187, 94, 137);
+    border-style: dashed;
+}
+#cuadro3{
+    width: 23%;
+    padding: 2%;
+    margin-top: 3%;
+    margin-left: 7%;
+    margin-right: 10%;
+    float: right;
+    background-color: rgb(187, 94, 137);
+    border-style: dashed;
+}
+#boton1{
+    font-size: 15px;
+    font-family: Arial;
+    width: 5%;
+    padding: 2%;
+    margin-top: 5%;
+    border-width: 1px;
+    color: #000000;
+    border-color: rgb(163, 5, 5);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background: linear-gradient(#7e1313, #bb2e85);
+    text-decoration: none;
+}
+#boton1:hover{
+    background: linear-gradient(#bb2e85, #7e1313);
+}
